@@ -1,5 +1,5 @@
 # Google Apps Script Project: cGitJsonApi
-This repo (cGitJsonApi) was automatically updated on 15 September 2015 11:49:36 BST by GasGit
+This repo (cGitJsonApi) was automatically updated on 28 September 2015 17:44:34 BST by GasGit
 
 For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")
 ## Details for Apps Script project cGitJsonApi
@@ -24,6 +24,6 @@ cUrlResult| cUrlResult|M59PE-C_VqcthwNDmXB9gsCz3TLx7pV4j|11|no|[here](libraries/
 ### Enabled Google Services
 *library*|*identifier*|*version*
 --- | --- | --- 
-Drive API| Drive|v2
+Drive| Drive|v2
 ###Need more detail ?
 You can see [full project info as json here](info.json)

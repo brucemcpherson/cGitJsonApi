@@ -132,6 +132,10 @@ function cGitJsonApi (settings) {
     
     // need to recurse for multiple pages
     if (result.success) {
+      // some return objects
+      if (!Array.isArray (result.data)) {
+        result.data = [result.data];
+      }
       result.data = cUseful.arrayAppend(data,result.data);
       var h = result.headers.Link;
       

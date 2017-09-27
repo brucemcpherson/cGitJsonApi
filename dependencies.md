@@ -1,5 +1,5 @@
 # Google Apps Script Project: cGitJsonApi
-This repo (cGitJsonApi) was automatically updated on 31 August 2017 12:14:07 BST by GasGit
+This repo (cGitJsonApi) was automatically updated on 27 September 2017 13:56:44 BST by GasGit
 
 For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")
 ## Details for Apps Script project cGitJsonApi
@@ -20,7 +20,7 @@ cUseful| cUseful|Mcbr-v4SsYKJP7JMohttAZyz3TLx7pV4j|83|no|[here](libraries/cUsefu
 *library*|*identifier*|*key*|*version*|*dev mode*|*source*|
 --- | --- | --- | --- | --- | --- 
 cUrlResult| cUrlResult|M59PE-C_VqcthwNDmXB9gsCz3TLx7pV4j|unknown|no|[here](libraries/cUrlResult "library source")
-cUseful| cUseful|Mcbr-v4SsYKJP7JMohttAZyz3TLx7pV4j|83|no|[here](libraries/cUseful "library source")
+cUseful| cUseful|Mcbr-v4SsYKJP7JMohttAZyz3TLx7pV4j|88|no|[here](libraries/cUseful "library source")
 cCacheHandler| cCacheHandler|M3reA5eBxtwxSqCEgPywb9ai_d-phDA33|17|no|[here](libraries/cCacheHandler "library source")
 ### Enabled Google Services
 *library*|*identifier*|*version*
